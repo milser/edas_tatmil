@@ -16,7 +16,6 @@ setup(
         "pandas",
         "matplotlib",
         "seaborn",
-        "math",
         "importlib",
         "tabulate",
     ],
