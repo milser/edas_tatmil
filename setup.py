@@ -13,12 +13,12 @@ setup(
         # Lista de clasificaciones de compatibilidad con Python, SO, etc.
     ],
     install_requires=[
-        pandas
-        matplotlib
-        seaborn
-        os
-        math
-        importlib
-        tabulate
+        "pandas",
+        "matplotlib",
+        "seaborn",
+        "os",
+        "math",
+        "importlib",
+        "tabulate",
     ],
 )
