@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='edas_tatmil',
-    version='0.1',
+    version='0.2',
     packages=find_packages(),
     # Metadatos adicionales del proyecto
     author='Tatiana Cazorla y Rubén Serrano',
